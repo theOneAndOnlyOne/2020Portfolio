@@ -1,8 +1,8 @@
-#Hi there, 
+# Hi there, 
 This is Joshua Gonzales. This is the source code for my portfoio hosted using github pages.
 
 
-#Credits:
+## Credits:
 
 	Template:
 		Photon by HTML5 UP
