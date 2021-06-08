@@ -1,5 +1,5 @@
 # Hi there, 
-This is Joshua Gonzales. This is the source code for my portfoio hosted using github pages.
+This is Joshua Gonzales. This is the source code for my portfolio hosted using github pages.
 
 
 ## Credits:
